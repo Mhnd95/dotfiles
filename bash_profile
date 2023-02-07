@@ -1,4 +1,4 @@
-git git # Hello Messsage --------------------------------------------------
+# Hello Messsage --------------------------------------------------
 if [ -a $HOME/.bashrc ]
 then 
 	source $HOME/.bashrc
